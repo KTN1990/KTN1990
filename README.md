@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://i.imgur.com/8BgVXcY.png">
+</div>
+
 <!--
 **KTN1990/KTN1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
