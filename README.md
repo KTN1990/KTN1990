@@ -1,7 +1,6 @@
-## Hi there 👋
-
 <div align="center">
   <img width = "23%" src="https://github.com/KTN1990/KTN1990/blob/main/107.png">
+  <h1>bGJoIGFycnEgZ2IgZnJhcSB6ciB6YmFybA==</h1>
 </div>
 
 <!--
