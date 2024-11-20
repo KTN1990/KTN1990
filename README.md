@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://i.imgur.com/8BgVXcY.png">
+  <img src="https://github.com/KTN1990/KTN1990/blob/main/107.png">
 </div>
 
 <!--
